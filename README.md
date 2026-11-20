@@ -42,4 +42,8 @@ if git clone --depth 1 https://github.com/pierrotmask/claude-skills /tmp/claude-
   mkdir -p ~/.claude/skills
   cp -r /tmp/claude-skills-src/skills/. ~/.claude/skills/
 fi
+# frontend-design プラグインを入れる（失敗してもセッションは止めない）
+claude plugin install frontend-design@anthropic-plugin-directory --scope user || true
 ```
+
+スキルはこのリポジトリからコピーしますが、プラグインはマーケットプレイスからインストールします（中身をこのリポジトリに置く必要はありません）。
