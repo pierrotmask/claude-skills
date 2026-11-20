@@ -15,6 +15,7 @@ Claude Code 用の共通スキル置き場です。ここが**スキルの原本
 | publish-unique-tool | unique-tool へ noindex 付きで更新・公開する |
 | pwa-single-file | 1ファイルWebアプリの PWA 化 |
 | safe-data-change | 利用者の保存データを壊さない変更のルール |
+| visual-ux-principles | スマホ・PC両対応の操作性、数値の見やすさ、自然な日本語UIの原則 |
 
 ## スキルを直すとき
 
