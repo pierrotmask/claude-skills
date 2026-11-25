@@ -11,7 +11,7 @@ Claude Code 用の共通スキル置き場です。ここが**スキルの原本
 | スキル | 内容 |
 |---|---|
 | commit-message | 日本語の決まった形式でコミットメッセージを書く |
-| full-check | 1ファイルWebアプリの変更後の総チェック |
+| full-check | 1ファイルWebアプリの変更後のチェック（普段は簡易、条件を満たすと総チェック） |
 | publish-unique-tool | unique-tool へ noindex 付きで更新・公開する |
 | pwa-single-file | 1ファイルWebアプリの PWA 化 |
 | safe-data-change | 利用者の保存データを壊さない変更のルール |
