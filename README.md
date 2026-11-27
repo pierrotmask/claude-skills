@@ -15,6 +15,7 @@ Claude Code 用の共通スキル置き場です。ここが**スキルの原本
 | publish-unique-tool | unique-tool へ noindex 付きで更新・公開する |
 | pwa-single-file | 1ファイルWebアプリの PWA 化 |
 | safe-data-change | 利用者の保存データを壊さない変更のルール |
+| session-handoff | 長くなったセッションを新しいセッションに引き継ぐ準備（保存・HANDOFF 更新・貼るだけの依頼文） |
 | visual-ux-principles | スマホ・PC両対応の操作性、数値の見やすさ、自然な日本語UIの原則 |
 | app-evaluator | 自作アプリを3つのサブエージェントで評価（品質・使いやすさ・類似サービス調査）し、採点と改善フィードバックを返す |
 
